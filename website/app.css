@@ -2,3 +2,27 @@ body {
     background-color: #011627;
     color: #FDFFFC;
 }
+
+.hide { 
+    display: none; 
+}
+
+h1, p { 
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.center {  
+    padding: 50px;
+}
+
+
+.center2 {  
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
